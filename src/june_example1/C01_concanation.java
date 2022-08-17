@@ -1,4 +1,4 @@
-package june_example1;
+package Batch80.src.june_example1;
 
 import java.util.Scanner;
 
@@ -13,6 +13,8 @@ public class C01_concanation {
            //String isim = scan.next();
 //
            ////bir tane scanner tanımladıktan sonra digerlerine gerek yok diyor
+
+        System.out.println("deneme");
 //
 //
            //System.out.println("lütfen bir sayi yazınız");

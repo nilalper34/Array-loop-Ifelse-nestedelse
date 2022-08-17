@@ -1,4 +1,4 @@
-package june_example1;
+package Batch80.src.june_example1;
 
 import java.util.Locale;
 import java.util.Scanner;
