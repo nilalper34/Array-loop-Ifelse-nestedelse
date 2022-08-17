@@ -67,8 +67,8 @@ public class C01_concanation {
         System.out.println((12+8/2!=7) && (14/7-2!=8)); // true oldu cunku ! esit degıldır demi diyor esit olmadıgı ıcın dogru
 
         System.out.println(((7*4)+9==37) || ((7+3)*3==11)); // true olacak || veya demek birinin dogru olması yeterlı
-        //buraya kadar olan kısmı push edildi şimdi bunu local e cekip yeni spring e göre devam et
 
+        String str="bu github cokda zor degil";
 
 
 
