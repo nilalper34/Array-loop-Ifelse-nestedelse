@@ -33,6 +33,7 @@ public class C01_concanation {
            // System.out.println("d=" + d);
            // int e = ++c;
            // System.out.println("e=" + e);
+        System.out.println("burdan clonla");
            // int f = e - c;
            // c *= 3;
            // d += 5;
